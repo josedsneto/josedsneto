@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! This is a 🇧🇷 Electrical Engineering ⚡️ student pursuing a double-degree in 🇫🇷 📚. My name is José. 📸</h2>
+<h2 align="left">⚡️ Electrical Engineering Student (🇧🇷 → 🇫🇷) | Double Degree in Embedded Systems & Electronics | Tech Enthusiast 📸</h2>
 
 ###
 
